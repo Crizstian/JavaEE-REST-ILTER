@@ -1,6 +1,10 @@
 # JavaEE-REST-ILTER
 
-Java REST API developed using features of javaSE7
-- JDBC Try Catch with Resources
-- For enhanced
+##Developed using features
+- Maven
+- Glassfish
+- Deployed in Docker Containers
+- JavaSE7
+  - JDBC Try Catch with Resources
+  - For enhanced
 - etc
